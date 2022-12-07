@@ -18,6 +18,7 @@ Visual components and Python
 
 ## Experiment:
 
+![61](https://user-images.githubusercontent.com/94154791/206151838-e2c1d5dc-4a26-443c-926c-ccedfc1258d7.png)
 
 
 ## Program
@@ -66,6 +67,7 @@ print("----------------------------------------------------------------------")
 
 ## Output
 
+![62](https://user-images.githubusercontent.com/94154791/206151786-75804dc6-6c51-47e2-baa7-6b1caaff8937.png)
 
 
 # RESULT :
